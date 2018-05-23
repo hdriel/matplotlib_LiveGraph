@@ -6,9 +6,10 @@ import random
 from time import sleep
 from threading import Thread
 
+## Hadriel Benjo
 
 fileName = 'example.txt'
-    
+
 def threadPlt():
     print('execute : threadPlt\n')
     fig = plt.figure()
