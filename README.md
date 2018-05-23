@@ -1,4 +1,4 @@
-# Matplotlib
+# A live graph
 
 ### Python , matplotlib, threads
 
