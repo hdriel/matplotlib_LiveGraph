@@ -23,7 +23,7 @@ ___
 
 The program run will give you the following image:
 
-<div>
+<div  width=100%>
 <img src="https://profile.fcdn.co.il/images2/0__05b05b4c4ee68c.jpg" width="500" style="padding:1px;
                    border:1px solid #021a40; 
                   display: block;
